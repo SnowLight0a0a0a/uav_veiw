@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="img/">
+
+    <file>icon/background.jpg</file>
+    <file>icon/打开.png</file>
+    <file>icon/数据探索.png</file>
+    <file>icon/暂停.png</file>
+    <file>icon/开始.png</file>
+    <file>icon/图片1.png</file>
+  </qresource>
+</RCC>
